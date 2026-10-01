@@ -50,11 +50,14 @@ Suwatte supports three independent ways to fill your library. Use any mix of the
 Sources (also called "runners") are community-maintained connectors to online content. You install them from a **source list** (a URL that hosts a collection of runners).
 
 1. In Suwatte, go to **Browse** (or **Settings → Runners / Sources**, depending on build).
-2. Choose **Add Source List** and paste a runner-list URL.
+2. Choose **Add Source List** and paste a runner-list URL. The one I use:
+   ```
+   https://bergelmir.mantton.com
+   ```
 3. Browse the list and **install** the individual sources you want.
 4. Installed sources show up in **Browse** and in **Global Search**.
 
-> Suwatte doesn't bundle sources, and runner lists aren't officially endorsed — you find them in the community (see Resources). Install only what you trust, and keep lists updated since sources break when sites change. Official reference: [Sources guide](https://suwatte.mantton.com/).
+> `bergelmir.mantton.com` is a Mantton-hosted list (same author as Suwatte). Suwatte doesn't bundle sources, and runner lists aren't officially endorsed — install only what you trust, and keep lists updated since sources break when sites change. Official reference: [Sources guide](https://suwatte.mantton.com/).
 
 ### B. Servers (Komga / Kavita / OPDS)
 
@@ -107,4 +110,5 @@ Set it globally in **Settings → Reader**, or open a title → reader settings 
 - **Official site & guides** — [suwatte.mantton.com](https://suwatte.mantton.com/) (Sources, Servers, Files guides).
 - **Source code** — [github.com/Suwatte/Suwatte](https://github.com/Suwatte/Suwatte).
 - **TestFlight beta** — [join here](https://testflight.apple.com/join/qDyYMTLJ).
+- **Source list in use** — `https://bergelmir.mantton.com` (add via **Add Source List** in Step 2).
 - Community source/runner lists change over time and aren't officially endorsed; search the Suwatte community (GitHub, Discord) for the current recommended lists, and only install sources you trust.
