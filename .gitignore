@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Logs & temp
+*.log
+tmp/
+.tmp/
+
+# Secrets — never commit API tokens or keys
+.env
+.env.*
+*.key
+secrets.*
+
+# OS thumbnails
+Thumbs.db
+ehthumbs.db
